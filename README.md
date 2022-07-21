@@ -7,6 +7,7 @@ Hãy làm các bài lab theo link dưới đây và đảm bảo rằng bạn s�
 Đặt tên bài lab ở Github theo quy định sau: LAB+number_subnumber. Ví dụ: LAB01_1
 
 Học viên vào link Video trên Coursera để xem chi tiết yêu cầu của bài lab, bản dịch đính kèm chỉ hỗ trợ dịch text.
+
 1. 
 Lab (Video): Presentational and Container Components
 https://www.coursera.org/learn/front-end-react/lecture/b885S/exercise-video-presentational-and-container-components
