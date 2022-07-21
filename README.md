@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# Lab 04
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Nội dung bài tập thực hành:
 
-## Available Scripts
+Hãy làm các bài lab theo link dưới đây và đảm bảo rằng bạn sẽ không xoá repositories cho đến khi kết thúc môn học. Lưu kết quả bài Lab trên Githup.
 
-In the project directory, you can run:
+Đặt tên bài lab ở Github theo quy định sau: LAB+number_subnumber. Ví dụ: LAB01_1
 
-### `npm start`
+Học viên vào link Video trên Coursera để xem chi tiết yêu cầu của bài lab, bản dịch đính kèm chỉ hỗ trợ dịch text.
+1. 
+Lab (Video): Presentational and Container Components
+https://www.coursera.org/learn/front-end-react/lecture/b885S/exercise-video-presentational-and-container-components
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Lab (Instructions): Presentational and Container Components
+https://www.coursera.org/learn/front-end-react/supplement/k92ZA/exercise-instructions-presentational-and-container-components
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. 
+Lab (Video): Functional Components
+https://www.coursera.org/learn/front-end-react/lecture/zWz7i/exercise-video-functional-components
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Lab (Instructions): Functional Components
+https://www.coursera.org/learn/front-end-react/supplement/wiObL/exercise-instructions-functional-components
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Lưu ý: Một số yêu cầu trong bài Lab này có liên quan đến bài Exercises 1, do vậy để thuận lợi hơn khi làm bài lab này, học viên nên làm bài exercises 1.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thời lượng làm bài dự kiến: 100 phút
